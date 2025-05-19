@@ -1,0 +1,207 @@
+Backlog:
+
+
+1
+	
+
+Cadastro de produtos
+	
+
+Nome, código, descrição, categoria, etc.
+	
+
+Alta
+
+2
+	
+
+Entrada de produtos
+	
+
+Adicionar unidades ao estoque
+	
+
+Alta
+
+3
+	
+
+Saída de produtos
+	
+
+Registrar saídas do estoque
+	
+
+Alta
+
+4
+	
+
+Consulta de saldo
+	
+
+Ver quantidade atual de cada produto
+	
+
+Alta
+
+5
+	
+
+Alerta de estoque baixo
+	
+
+Avisar quando atingir o mínimo
+	
+
+Média
+
+6
+	
+
+Cadastro de categorias
+	
+
+Agrupar produtos por tipo
+	
+
+Média
+
+7
+	
+
+Login e autenticação
+	
+
+Sistema seguro para acesso
+	
+
+Baixa
+
+8
+	
+
+Relatório de movimentações
+	
+
+Mostrar entradas e saídas por data
+	
+
+Baixa
+
+
+Distribuição de tarefas:
+
+
+Sprint 1 (08/04 - 19/04)
+	
+
+- Cadastro de produtos
+
+- Cadastro de categorias
+
+Sprint 2 (22/04 - 03/05)
+	
+
+- Entrada de produtos
+
+- Saída de produtos
+
+Sprint 3 (06/05 - 17/05)
+	
+
+- Consulta de saldo
+
+- Alerta de estoque baixo
+
+Sprint 4 (20/05 - 31/05)
+	
+
+- Login e autenticação
+
+- Interface de usuário do sistema (front-end)
+
+Sprint 5 (03/06 - 14/06)
+	
+
+- Relatório de movimentações
+
+- Testes finais e melhorias
+
+- Documentação do sistema
+
+
+Cronograma:
+
+
+Sprint 1
+	
+
+08/04 a 19/04
+	
+
+- Planejamento Sprint: 08/04
+
+- Daily Scrum: todos os dias de aula
+
+- Review Sprint: 19/04
+
+- Retrospectiva Sprint: 19/04
+
+Sprint 2
+	
+
+22/04 a 03/05
+	
+
+- Planejamento Sprint: 22/04
+
+- Daily Scrum
+
+- Review Sprint: 03/05
+
+- Retrospectiva Sprint: 03/05
+
+Sprint 3
+	
+
+06/05 a 17/05
+	
+
+- Planejamento Sprint: 06/05
+
+- Daily Scrum
+
+- Review Sprint: 17/05
+
+- Retrospectiva Sprint: 17/05
+
+Sprint 4
+	
+
+20/05 a 31/05
+	
+
+- Planejamento Sprint: 20/05
+
+- Daily Scrum
+
+- Review Sprint: 31/05
+
+- Retrospectiva Sprint: 31/05
+
+Sprint 5
+	
+
+03/06 a 14/06
+	
+
+- Planejamento Sprint: 03/06
+
+- Daily Scrum
+
+- Review Sprint: 14/06
+
+- Retrospectiva Sprint: 14/06
+
+
