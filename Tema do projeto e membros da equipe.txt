@@ -1,0 +1,17 @@
+
+Título: 
+Sistema de estoque
+
+Integrantes:
+Gabriel Matheus Carbonera
+Giovane Vitor Carbonera
+Mateus Moraes de Mattos
+Gabriel Felipe Ribeiro da Silva
+Victor Baratta
+
+Escopo do projeto:
+Microempreendedor
+
+Documentação:
+Eclipse - Java
+Github
